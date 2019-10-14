@@ -1,0 +1,34 @@
+[submodule "mod/threesixo"]
+	path = mod/threesixo
+	url = https://github.com/junpataleta/moodle-mod_threesixo.git
+	branch = 360_37_STABLE
+[submodule "mod/hvp"]
+	path = mod/hvp
+	url = https://github.com/h5p/h5p-moodle-plugin.git
+	branch = stable 
+[submodule "report/lpmonitoring"]
+	path = report/lpmonitoring
+	url = https://github.com/StudiUM/moodle-report_lpmonitoring.git
+[submodule "mod/groupselect"]
+	path = mod/groupselect
+	url = https://github.com/rogerbaba/moodle-mod_groupselect.git
+	branch = GROUPSELECT_3_15_STABLE
+[submodule "question/type/wordselect"]
+	path = question/type/wordselect
+	url = https://github.com/marcusgreen/moodle-qtype_wordselect.git
+[submodule "mod/bigbluebuttonbn"]
+	path = mod/bigbluebuttonbn
+	url = https://github.com/blindsidenetworks/moodle-mod_bigbluebuttonbn.git
+	branch = v2.3-stable
+[submodule "mod/subcourse"]
+	path = mod/subcourse
+	url = https://github.com/mudrd8mz/moodle-mod_subcourse.git
+	branch = master
+[submodule "mod/attendance"]
+	path = mod/attendance
+	url = https://github.com/danmarsden/moodle-mod_attendance.git
+	branch = MOODLE_37_STABLE
+[submodule "local/recompletion"]
+	path = local/recompletion
+	url = https://github.com/danmarsden/moodle-local_recompletion.git
+	branch = master
